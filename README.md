@@ -17,11 +17,11 @@
 
   ## Installation
 
-  To install all dependencies, open your VS terminal at the root folder and run ```npm i ```. 
+  To install all dependencies, open your VS terminal at the root folder and run ```npm i ``` followed by ```npm run build```. 
 
   ## Usage
 
-  Once dependencies and database is installed, run ```npm run start:dev``` in the terminal and follow route or use the url: 
+  Once dependencies and database is installed, run ```npm run start``` in the terminal and follow route or use the url: 
  
   ## Contribution Guidelines
 
